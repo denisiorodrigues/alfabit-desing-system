@@ -1,7 +1,8 @@
 import Image from "next/image";
+import Button from "./components/Button/Button";
 
 export default function Home() {
   return (
-    <h1>My app</h1>
+    <Button>Botão</Button>
   );
 }
