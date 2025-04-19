@@ -14,6 +14,10 @@ pnpm dev
 bun dev
 ```
 
+
+### figma
+https://www.figma.com/design/GFnfFQ9XWIXukZvKv0buTs/React--criando-um-Design-System-com-TailwindCSS-%7C-Alfabit--Community-?node-id=143-3688&t=TUcCBBvoUKfy0yDR-0
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
